@@ -8,3 +8,6 @@ Durante o curso foi possível aprender a:
 - Usar as diversas propriedades do flexbox
 - Usar as propriedades do flexbox substituindo float, inline e inline-block
 - Elaborar um site responsivo com flexbox
+
+### Link
+https://louissilver.github.io/flexbox_alura/
